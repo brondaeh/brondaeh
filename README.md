@@ -2,10 +2,10 @@
 
 **`Undergraduate EE Student | ML Research Assistant`**
 
-I'm exploring various different interests; currently learning the basics of machine learning!
+I'm exploring various different interests; currently learning the basics of machine learning and artificial intelligence!
 
-*   🌍  I'm based in the San Francisco Bay Area
-*   🧠  I'm learning PyTorch and Deep Learning Acceleration
+*   🌍  Based in the San Francisco Bay Area
+*   🎓  Conducting research on efficient mobile computing and deep learning acceleration
 
 #
 
