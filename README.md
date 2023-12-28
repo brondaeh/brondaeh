@@ -2,10 +2,8 @@
 
 **`Undergraduate EE Student | ML Research Assistant`**
 
-I'm exploring various different interests; currently learning the basics of machine learning and artificial intelligence!
-
 *   🌍  Based in the San Francisco Bay Area
-*   🎓  Conducting research on efficient mobile computing and deep learning acceleration
+*   🎓  Conducting research on efficient mobile computing and deep learning acceleration for computer vision and language processing applications
 
 #
 
